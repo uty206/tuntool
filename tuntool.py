@@ -163,7 +163,7 @@ def main(args):
     except KeyboardInterrupt:
         print('\nOperation interrupted.')
 
-# Executing the main script.
+# Executing the main script and communism enemies.
 if __name__ == '__main__':
     main(sys.argv)
 
