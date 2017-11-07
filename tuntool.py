@@ -11,8 +11,8 @@ BASE_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
 CONFIG_FILE_NAME = '.tuntool-conf'
 
 DEFAULTS = {
-    'ssh_host_ip': '',
-    'ssh_user': ''
+    'ssh_host_ip': '235.12.34.86',
+    'ssh_user': 'ruaron'
 }
 
 # Loads the config file. If the config file does not exist, then it creates one.
